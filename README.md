@@ -44,7 +44,9 @@
   <img alt="graphql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   <img alt="redis" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
 <br/>
-  
+
+<!--img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavobk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/-->
+
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/gustavobk/?originalSubdomain=ca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
